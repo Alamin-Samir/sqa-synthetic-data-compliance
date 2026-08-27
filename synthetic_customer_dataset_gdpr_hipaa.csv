@@ -1,0 +1,101 @@
+Customer_ID,Synthetic_Name,Masked_Email,Masked_Phone,City,Country,Masked_Credit_Card,Masked_NID_SSN,Anonymized_Health_Token,Clinical_Diagnosis,Compliance_Standard
+CUST-2026-0001,Allison Hill,"d***a@['donaldgarcia', 'example.net']",+1-219XXXXXX,Cassandraton,Saint Lucia,XXXX-XXXX-XXXX-3510,***-**-585,0d7e197344042191,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0002,Calvin Nielsen,"a***a@['arnoldmaria', 'example.net']",(993)7XXXXXX,Port Leslieview,Bahrain,XXXX-XXXX-XXXX-4833,***-**-917,7d45b0baca3aada6,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0003,Tommy Walter,"j***6@['jason76', 'example.net']",724.52XXXXXX,Kaylamouth,Bouvet Island (Bouvetoya),XXXX-XXXX-XXXX-7841,***-**-877,828f0a06b9512c3a,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0004,Christopher Smith,"t***8@['teresa28', 'example.org']",+1-948XXXXXX,Allisonchester,Croatia,XXXX-XXXX-XXXX-8220,***-**-008,75252c79b95a46a6,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0005,Nicole Vaughn,"r***7@['raymond57', 'example.net']",213.33XXXXXX,Aguirreborough,Bhutan,XXXX-XXXX-XXXX-8291,***-**-982,67948ad69ae88309,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0006,Jeffrey Henderson,"d***s@['dshields', 'example.net']",+1-410XXXXXX,Barreraburgh,Hong Kong,XXXX-XXXX-XXXX-1326,***-**-887,0c32963ad345d049,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0007,James House,"s***l@['smitchell', 'example.net']",+1-272XXXXXX,Lake Michellefurt,British Indian Ocean Territory (Chagos Archipelago),XXXX-XXXX-XXXX-2087,***-**-123,a24b02d9010a7de6,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0008,Laura Riley,"h***t@['harveyrobert', 'example.net']",001-48XXXXXX,West Justin,Kazakhstan,XXXX-XXXX-XXXX-8387,***-**-719,c01fcc9dae1ba83c,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0009,Michele Carr,"c***a@['contrerasangela', 'example.net']",524-71XXXXXX,Arnoldchester,Monaco,XXXX-XXXX-XXXX-0529,***-**-648,79324a8b61fe43f2,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0010,Benjamin Ware,"a***t@['amydavenport', 'example.net']",+1-526XXXXXX,Port Thomasborough,Svalbard & Jan Mayen Islands,XXXX-XXXX-XXXX-5630,***-**-772,9ccdfb9fae5f145c,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0011,Hannah Hoover,"j***r@['jeffreykeller', 'example.com']",641-24XXXXXX,West Ryan,Yemen,XXXX-XXXX-XXXX-9345,***-**-145,4dd98094d9922b01,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0012,Erin Edwards,"c***n@['cortezkevin', 'example.com']",+1-865XXXXXX,Jeffreyborough,Cameroon,XXXX-XXXX-XXXX-8952,***-**-849,40b2fd1704c707c8,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0013,David Alvarez,"g***a@['gibsonolivia', 'example.net']",567.46XXXXXX,Merrittfort,Korea,XXXX-XXXX-XXXX-5791,***-**-271,34f3b508a52b69d5,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0014,David Walsh,"r***s@['rsims', 'example.com']",443-54XXXXXX,Port Nicoleshire,Hong Kong,XXXX-XXXX-XXXX-0362,***-**-570,b7469e30fbc3487a,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0015,Tommy Evans,"a***a@['acastaneda', 'example.net']",001-48XXXXXX,Ramirezchester,El Salvador,XXXX-XXXX-XXXX-6537,***-**-530,370127895eb927db,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0016,Julie Curry,"c***l@['cookemichael', 'example.net']",400-93XXXXXX,North Brittany,Switzerland,XXXX-XXXX-XXXX-1905,***-**-150,1732c1c4d978d16f,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0017,Ashley Barton,"h***e@['hoganashlee', 'example.org']",(786)9XXXXXX,Port Steven,New Zealand,XXXX-XXXX-XXXX-4533,***-**-570,32d1a26b235e2e5e,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0018,Gabrielle Snyder,"h***5@['hunter35', 'example.com']",949-94XXXXXX,Michaelmouth,Faroe Islands,XXXX-XXXX-XXXX-5784,***-**-972,4e994dc7424dd023,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0019,David Griffith,"d***2@['david82', 'example.org']",674.59XXXXXX,Mendozamouth,Colombia,XXXX-XXXX-XXXX-2715,***-**-406,6bda7dfcd9e13974,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0020,Dawn Hensley,"s***d@['shortrichard', 'example.org']",001-80XXXXXX,West Donna,Cayman Islands,XXXX-XXXX-XXXX-9096,***-**-405,1daa30b976970314,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0021,Juan Moore,"m***s@['mhayes', 'example.com']",503-44XXXXXX,Cassandratown,Bermuda,XXXX-XXXX-XXXX-8775,***-**-654,3e94be0a931bda4d,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0022,Michael Valencia,"k***y@['keyemily', 'example.com']",001-80XXXXXX,Darrellfurt,Tonga,XXXX-XXXX-XXXX-6807,***-**-154,673bceaa76cff206,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0023,Virginia Sandoval,"m***z@['mgutierrez', 'example.net']",(397)2XXXXXX,Bairdbury,Korea,XXXX-XXXX-XXXX-2740,***-**-480,74defcdcf9db0d46,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0024,Janet Weeks,"m***l@['michellehill', 'example.com']",784-80XXXXXX,East Wayneshire,Greenland,XXXX-XXXX-XXXX-5765,***-**-493,6fa556041e27834e,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0025,Shelly Alexander,"j***h@['jsmith', 'example.com']",+1-921XXXXXX,Ryanbury,Marshall Islands,XXXX-XXXX-XXXX-0050,***-**-807,7e5b8d356650d611,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0026,Michael White,"c***s@['christianpitts', 'example.net']",+1-437XXXXXX,Victoriaport,Angola,XXXX-XXXX-XXXX-6712,***-**-371,518ebc8b60ae8db9,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0027,Mary Hill,"l***e@['lozanojulie', 'example.com']",001-73XXXXXX,Lindamouth,Belarus,XXXX-XXXX-XXXX-4248,***-**-836,965fe27755ccf0fd,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0028,Vincent Dalton,"z***y@['zcoffey', 'example.net']",(716)3XXXXXX,East Paigeberg,Iceland,XXXX-XXXX-XXXX-1205,***-**-072,16feb3469d2c69c0,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0029,Michael Paul,"u***s@['umatthews', 'example.org']",(717)7XXXXXX,Port Anne,Bangladesh,XXXX-XXXX-XXXX-1396,***-**-465,00aa023c7a20b8f3,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0030,Kristen Willis,"m***z@['markhernandez', 'example.net']",442228XXXXXX,South Williamton,Saint Lucia,XXXX-XXXX-XXXX-1170,***-**-409,26b158f1f1e3e476,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0031,Sharon Boyd,"b***r@['bschneider', 'example.org']",666.71XXXXXX,West Ronaldview,Holy See (Vatican City State),XXXX-XXXX-XXXX-3658,***-**-533,70d4d967ab800ad0,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0032,Melissa Wells,"d***r@['deckerchristopher', 'example.org']",001-25XXXXXX,Bruceside,Anguilla,XXXX-XXXX-XXXX-8513,***-**-407,ecc26d060159588e,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0033,Mary Steele,"w***e@['whitejacqueline', 'example.com']",850-92XXXXXX,Perryborough,Saudi Arabia,XXXX-XXXX-XXXX-9014,***-**-948,cf65294f1a6b57d8,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0034,Haley Rodriguez,"t***e@['trose', 'example.org']",669.60XXXXXX,South Samanthamouth,Morocco,XXXX-XXXX-XXXX-8513,***-**-694,22070a7ab2713073,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0035,Jared Bowman,"d***5@['darius05', 'example.org']",+1-875XXXXXX,New Eric,Senegal,XXXX-XXXX-XXXX-5230,***-**-194,57fbe619212c8788,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0036,Cassandra Mejia,"k***l@['kmarshall', 'example.net']",299.75XXXXXX,South Reginashire,Pakistan,XXXX-XXXX-XXXX-1198,***-**-300,67312706b9441f17,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0037,Larry Mason,"h***a@['hayeslisa', 'example.com']",001-71XXXXXX,Andersonland,Georgia,XXXX-XXXX-XXXX-5198,***-**-732,56f997b493e2e26b,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0038,Maria Murphy,"e***n@['elizabethcalderon', 'example.net']",+1-581XXXXXX,Williamsstad,Philippines,XXXX-XXXX-XXXX-2222,***-**-713,8c22416768360c8e,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0039,Tracy Bishop,"p***g@['pyoung', 'example.com']",435.69XXXXXX,Whiteheadberg,Switzerland,XXXX-XXXX-XXXX-8140,***-**-627,8ce230dc237db34e,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0040,Travis Walker,"b***n@['bwilkerson', 'example.com']",268753XXXXXX,Rodriguezport,Dominica,XXXX-XXXX-XXXX-0102,***-**-450,33c6aa5aa76efba3,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0041,Anthony Barnes,"f***n@['fbrown', 'example.net']",+1-708XXXXXX,Juliestad,Solomon Islands,XXXX-XXXX-XXXX-0671,***-**-339,ab423c41e6cbc220,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0042,David Sandoval,"i***l@['ingramjill', 'example.com']",(405)3XXXXXX,Michelleton,Tonga,XXXX-XXXX-XXXX-8743,***-**-132,23e4c5a4a5e6b814,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0043,Denise Lloyd,"v***n@['vpreston', 'example.com']",(452)6XXXXXX,North Emilyfurt,Haiti,XXXX-XXXX-XXXX-5704,***-**-127,fad5ccc2bc79857d,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0044,Nicole Moore,"t***y@['thomascathy', 'example.com']",421935XXXXXX,Mcintyreville,Estonia,XXXX-XXXX-XXXX-3103,***-**-177,5beced7114a27646,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0045,Michele Lewis,"h***3@['heather73', 'example.org']",(617)6XXXXXX,North Kylefort,Malta,XXXX-XXXX-XXXX-9572,***-**-127,6488113491e5bd33,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0046,Jason Andrews,"t***y@['teresaday', 'example.com']",485.62XXXXXX,East Donna,Saint Helena,XXXX-XXXX-XXXX-4981,***-**-763,b3fba3c4b10caf2a,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0047,Gail Bradshaw,"b***y@['bryananthony', 'example.org']",+1-594XXXXXX,South David,Korea,XXXX-XXXX-XXXX-6254,***-**-740,0cd0b8ad598d9ffc,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0048,Brent Roberts,"a***n@['alin', 'example.org']",(959)6XXXXXX,Mitchelltown,Tanzania,XXXX-XXXX-XXXX-5008,***-**-790,3e9b7fc14afef7c2,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0049,Cesar Baker,"k***0@['kathryn50', 'example.com']",998635XXXXXX,Lindahaven,Korea,XXXX-XXXX-XXXX-8689,***-**-638,04701f12eaf859e3,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0050,Steven Taylor,"f***4@['francisco94', 'example.net']",688-28XXXXXX,South Leeberg,Isle of Man,XXXX-XXXX-XXXX-6237,***-**-801,9b43f1105b29c107,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0051,Jennifer Hampton,"v***s@['vsalas', 'example.net']",728438XXXXXX,Lake Janet,Ghana,XXXX-XXXX-XXXX-4841,***-**-736,89c4cc8acb00fda3,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0052,Justin Michael,"k***8@['keith98', 'example.com']",(652)6XXXXXX,South Denise,Turkmenistan,XXXX-XXXX-XXXX-5711,***-**-253,25a48b5e01021048,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0053,Karen Gonzalez,"m***1@['manuel01', 'example.net']",001-93XXXXXX,Port Daniel,Central African Republic,XXXX-XXXX-XXXX-8726,***-**-669,6f90592877883fb9,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0054,Mariah Higgins,"d***l@['doylekrystal', 'example.net']",+1-732XXXXXX,North Elizabeth,Lao People's Democratic Republic,XXXX-XXXX-XXXX-9904,***-**-891,bf06f65f9684c446,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0055,Jared Shaw,"h***5@['hannah45', 'example.net']",932.57XXXXXX,Melissamouth,Brazil,XXXX-XXXX-XXXX-8836,***-**-456,eede6dfcd81dd4ff,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0056,Michelle Burns,"d***s@['dstokes', 'example.org']",367.29XXXXXX,Lake Michelle,British Indian Ocean Territory (Chagos Archipelago),XXXX-XXXX-XXXX-6565,***-**-155,745a1e39ae662598,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0057,Joshua Rice,"m***a@['maryavila', 'example.com']",386.28XXXXXX,East Williamport,Djibouti,XXXX-XXXX-XXXX-3067,***-**-844,fc80186302ce22e7,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0058,Monique Flores,"j***8@['joel28', 'example.org']",(744)8XXXXXX,South John,Costa Rica,XXXX-XXXX-XXXX-2709,***-**-825,0e76123fb117d5fb,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0059,Bob Cole,"c***0@['christopher30', 'example.com']",(299)5XXXXXX,Michaelfort,Lao People's Democratic Republic,XXXX-XXXX-XXXX-4679,***-**-887,abd952c772a4d9ec,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0060,William Harrison,"r***5@['robin55', 'example.com']",893620XXXXXX,New Veronica,Bahamas,XXXX-XXXX-XXXX-7255,***-**-955,5c6407656750e4ce,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0061,Sara Jones,"d***t@['duranrobert', 'example.net']",912.90XXXXXX,Drakeburgh,Botswana,XXXX-XXXX-XXXX-0845,***-**-281,2331d8bfc5a63a97,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0062,Kelly Allen,"l***6@['lisa46', 'example.org']",(867)9XXXXXX,East Rachel,Puerto Rico,XXXX-XXXX-XXXX-6596,***-**-654,64ae412b3fbac8b3,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0063,Karen Williams,"c***n@['cohenjuan', 'example.net']",001-30XXXXXX,Anthonyview,Slovenia,XXXX-XXXX-XXXX-6319,***-**-759,48551b4af7c0a22a,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0064,Katherine Kelly DVM,"l***z@['llopez', 'example.net']",(719)3XXXXXX,Angelamouth,Tonga,XXXX-XXXX-XXXX-8888,***-**-431,97af107c2d06c1a9,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0065,Edgar Hughes,"h***a@['hardyanita', 'example.org']",001-98XXXXXX,Adamfurt,Grenada,XXXX-XXXX-XXXX-7993,***-**-753,6bce2ba79adb03a2,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0066,Jamie Atkins,"p***k@['pcook', 'example.net']",(745)6XXXXXX,Hahnborough,Kazakhstan,XXXX-XXXX-XXXX-9821,***-**-013,3dcb3fb7263196d2,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0067,Sandra Jones,"i***s@['ichambers', 'example.net']",834-22XXXXXX,South Neil,Kyrgyz Republic,XXXX-XXXX-XXXX-6103,***-**-638,ccc529027570340e,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0068,Leah Mason,"w***1@['whitney71', 'example.com']",(911)9XXXXXX,Port Richard,Colombia,XXXX-XXXX-XXXX-2825,***-**-986,992ac86743921c2f,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0069,Matthew Foster,"s***n@['shannonjordan', 'example.org']",001-93XXXXXX,West Daryl,Holy See (Vatican City State),XXXX-XXXX-XXXX-9916,***-**-132,1279527b6e1f2d0b,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0070,Kayla Barnes,"b***n@['baileyhenderson', 'example.com']",+1-782XXXXXX,West Antonio,Czech Republic,XXXX-XXXX-XXXX-6777,***-**-264,bad389154a1900df,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0071,Carol Ellis,"h***n@['hdunn', 'example.net']",848-35XXXXXX,Port Jamie,Costa Rica,XXXX-XXXX-XXXX-9592,***-**-720,7eb6f867400a3919,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0072,Laura Patel,"m***a@['mariopadilla', 'example.com']",001-44XXXXXX,Brandiland,Saint Martin,XXXX-XXXX-XXXX-6840,***-**-450,e2effbdcb9e8445d,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0073,Madison Terry,"f***d@['flynnraymond', 'example.com']",974.75XXXXXX,Johnstad,Papua New Guinea,XXXX-XXXX-XXXX-2428,***-**-530,8a2a0a20bbf0a936,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0074,Carol Sanders,"j***6@['jessica36', 'example.net']",910-23XXXXXX,Michaelport,Burundi,XXXX-XXXX-XXXX-7131,***-**-679,1599d34722743888,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0075,Robert Baxter,"c***t@['caseyelliott', 'example.net']",+1-327XXXXXX,Lake Peter,Oman,XXXX-XXXX-XXXX-9406,***-**-943,bf985b7076e9c578,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0076,Steven Blevins,"p***z@['pcruz', 'example.com']",+1-491XXXXXX,West Christopher,Belgium,XXXX-XXXX-XXXX-8665,***-**-351,8bfcde8c8a202a74,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0077,Christina Morton,"p***4@['peter14', 'example.net']",(230)4XXXXXX,West Jennifershire,Niue,XXXX-XXXX-XXXX-1058,***-**-457,8d1e9a0a47ce08fc,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0078,Jesse Ward,"k***l@['kvillarreal', 'example.com']",(241)5XXXXXX,Josephland,Montserrat,XXXX-XXXX-XXXX-0866,***-**-068,81c9eb3ef5eb9eab,Asthma,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0079,Jonathan Winters,"j***k@['jeffreyblack', 'example.org']",(617)5XXXXXX,Port Dianeport,Bosnia and Herzegovina,XXXX-XXXX-XXXX-6033,***-**-158,5dc42c54f873b2c5,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0080,William Barnes,"k***s@['kaufmandouglas', 'example.com']",303-48XXXXXX,Port Kayla,Botswana,XXXX-XXXX-XXXX-5570,***-**-224,3700025eac25dd7d,Type 2 Diabetes,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0081,Christopher Owens,"w***z@['wmartinez', 'example.org']",447.34XXXXXX,North Alexander,Switzerland,XXXX-XXXX-XXXX-8838,***-**-670,8827adcbda0792e2,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0082,Courtney Gonzalez,"o***n@['owatson', 'example.net']",499-34XXXXXX,Seanberg,Antigua and Barbuda,XXXX-XXXX-XXXX-6624,***-**-067,f7c904fd711479b5,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0083,Lisa Holland,"j***s@['jjenkins', 'example.com']",214862XXXXXX,Morenoshire,Djibouti,XXXX-XXXX-XXXX-0598,***-**-603,d907fc5405fb5c1e,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0084,Ariel Sandoval,"a***3@['amanda03', 'example.net']",(452)5XXXXXX,Port David,Saint Barthelemy,XXXX-XXXX-XXXX-3089,***-**-436,d73d764a33f15958,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0085,Robert Oneill,"j***a@['johnsonbrenda', 'example.org']",001-81XXXXXX,New Lucas,Sudan,XXXX-XXXX-XXXX-2099,***-**-298,a1e3460f99fb9b3c,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0086,Connie Cunningham,"v***r@['vtaylor', 'example.org']",555.52XXXXXX,Kramershire,Pakistan,XXXX-XXXX-XXXX-7653,***-**-662,85ffb2e075ff4188,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0087,Courtney Hayes,"p***s@['phillipslucas', 'example.org']",952-26XXXXXX,North Brandon,Montserrat,XXXX-XXXX-XXXX-6881,***-**-613,fd12ac7b0384870b,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0088,Katherine Brown,"p***y@['pattersonkelly', 'example.net']",+1-897XXXXXX,Port Joseph,Bahamas,XXXX-XXXX-XXXX-2704,***-**-620,6b2607001fbcad89,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0089,Michael Davis,"l***9@['lindsey69', 'example.org']",+1-906XXXXXX,Millerchester,Cook Islands,XXXX-XXXX-XXXX-2231,***-**-068,ad384be5653808a0,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0090,Lori Flowers MD,"m***a@['millerangela', 'example.net']",348-37XXXXXX,Williamsmouth,Portugal,XXXX-XXXX-XXXX-0242,***-**-973,24b6733d38e90f10,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0091,Patrick Mccall,"a***4@['andrew44', 'example.com']",513.82XXXXXX,East Antonioton,Uruguay,XXXX-XXXX-XXXX-8907,***-**-289,5fae916801bbe947,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0092,Curtis Richardson,"o***r@['owagner', 'example.org']",+1-603XXXXXX,Jenniferview,Jamaica,XXXX-XXXX-XXXX-2299,***-**-667,38bae30f550dc11d,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0093,Sarah Stevens,"s***d@['stevenbyrd', 'example.net']",(391)7XXXXXX,West Jessica,Cyprus,XXXX-XXXX-XXXX-4465,***-**-579,a93ede8eeb9cc439,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0094,Margaret Alvarez,"w***8@['william28', 'example.org']",817-72XXXXXX,Robertberg,Burundi,XXXX-XXXX-XXXX-1737,***-**-254,aeff5552cd04333f,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0095,Grace Benitez DVM,"t***s@['tthomas', 'example.org']",001-91XXXXXX,East Heather,Guatemala,XXXX-XXXX-XXXX-5830,***-**-068,4e65f3e9759f312b,Seasonal Allergy,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0096,Brian Gordon,"g***4@['gary04', 'example.com']",889.28XXXXXX,Lake Danieltown,Australia,XXXX-XXXX-XXXX-0640,***-**-797,672ebaa37dbb5549,Migraine,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0097,Jennifer James,"t***3@['thomas23', 'example.net']",+1-304XXXXXX,North Alexander,Benin,XXXX-XXXX-XXXX-2080,***-**-876,4fd913b74764f869,Viral Fever,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0098,Sara Caldwell,"s***n@['stacychan', 'example.org']",001-71XXXXXX,Rossmouth,Faroe Islands,XXXX-XXXX-XXXX-9418,***-**-997,1d758b5be931658d,Hypertension,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0099,Melissa Mendoza,"z***s@['zbanks', 'example.org']",920-42XXXXXX,Lake Morgan,Maldives,XXXX-XXXX-XXXX-1455,***-**-599,cab72160e55b0087,General Checkup,GDPR (Art. 32) & HIPAA Verified
+CUST-2026-0100,Mercedes Davis,"t***o@['timothyalvarado', 'example.net']",(728)5XXXXXX,South Julietown,Bosnia and Herzegovina,XXXX-XXXX-XXXX-7975,***-**-325,6842cd4b18a8d62e,Viral Fever,GDPR (Art. 32) & HIPAA Verified
